@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Citizen Dapp",
+    "slug": "citizen-dapp",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/logo/citizen.png",
+    "scheme": "citizendapp",
+    "splash": {
+      "image": "./assets/logo/citizen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Connect with other Celo devs on our discord: https://discord.gg/6yWMkgM",
+    "githubUrl": "https://github.com/critesjosh/celo-dappkit"
+  }
+}
