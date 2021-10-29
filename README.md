@@ -14,13 +14,13 @@ Celo is a mobile-first blockchain. It is a fork of Ethereum and is built to be a
 
 ## The Team
 
-1.Jordan Muthemba
+1. Jordan Muthemba
 
 An Experienced Software Engineer with a demonstrated history of working in the computer and network security industry. Skilled in Python, Java Script, React Native, Solidity, and Public Speaking. Strong engineering professional graduated from Moi University.
 
 Currlently a Developer Evangelist teaching and training both web2 and web3 developers about Celo Blockchain.
 
-2.Rachael Chege
+2. Rachael Chege
 
 Currently a UI/UX designer at Ubrica, Rachael Chege graduated from JKUAT with a Bachelor's degree in Information Technology(IT).
 
@@ -28,15 +28,15 @@ Drawn to the problem solving and creative aspects of UX design, Rachael is passi
 
 She creates customer-focused designs that result in positive user experiences, empathizing with people to comprehend their needs fully.
 
-3.Damaris Waithera
+3. Damaris Waithera
 
-4.Ambrose O. Aiwerioghene  
+4. Ambrose O. Aiwerioghene  
 
 I'm currently a Freelance ICT Consultant with over 10 years working experience with vast years in Telecommunication industry as a Charging System Engineer Customer Technical Manager.
 
 Ambrose specializes in Charging/Pre-Paid Systems Operations/Support, Data Analytics Skill with Business Intelligence and aspiring Blockchain/Smart Contract Developer. I enjoy using my skills to contribute to the exciting technological advances where I work. In my free time, I like to spend it with my family, playing games and contributing to my immediate environment.
 
-## Theme are you addressing
+## Theme we are addressing
 
 Transparency in public procurement and the administration of public finances.
 
