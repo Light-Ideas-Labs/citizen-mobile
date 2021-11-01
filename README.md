@@ -56,9 +56,9 @@ For instance, during the COVID-19 pandemic, many governments began emergency dir
 
 ## Why we made Citizen Dapp and it's potential for impact in Kenya and the African continent
 
-Money heist became the trending hashtag after money donated by world bank and other organizations to fight Covid-19 was misused. This angered many Kenyans.
+Money heist became the trending hashtag after funds donated by world bank and other organizations to fight Covid-19 were misused. This angered many Kenyans.
 
-The project has been accelerated by the UNODC Hackathon where Celo was part of the main sponsors and we won on the best implementation category. This has inspirated us to work this project.
+The project was accelerated by the first UNODC Hackathon where Celo was part of the main sponsors and we won on the best implementation category. This inspirated us to work this project.
 
 We envision that our platform will promote participatory democracy in Africa where citizens can participate in important projects through verification of work done by organizations and earn incentives. We also believe in Celo’s mission; prosperity for all and funds should not be for the elite only. Our project aligns with the SDG Goal 16 – Peace, Justice, Strong Institution.
 
@@ -73,7 +73,7 @@ Some ideas for Citizen Dapp include:
 
 - Creating a Project
 - viewing a list of all projects
-- Resending your back your money
+- 
 
 ## Requirements
 
