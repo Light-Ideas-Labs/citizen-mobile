@@ -10,7 +10,7 @@ Check out the latest [Expo build here]() (requires the Expo Go app).
 
 ## Background info
 
-Celo is a mobile-first blockchain. It is a fork of Ethereum and is built to be a global payments infrastructure targeting the developing world. Celo has two native cryptocurrencies, cUSD (a currency that's pegged to the Dollar, 1 cUSD = 1 USD) and Celo gold (a volatile currency used for Celo governance and utility). Coperacha uses cUSD exclusively to transact.
+Celo is a mobile-first blockchain. It is a fork of Ethereum and is built to be a global payments infrastructure targeting the developing world. Celo has two native cryptocurrencies, cUSD (a currency that's pegged to the Dollar, 1 cUSD = 1 USD) and Celo gold (a volatile currency used for Celo governance and utility). Citizen uses cUSD exclusively to transact.
 
 ## The Team
 
