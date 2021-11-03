@@ -32,7 +32,7 @@ She creates customer-focused designs that result in positive user experiences, e
 
 4. Ambrose O. Aiwerioghene  
 
-I'm currently a Freelance ICT Consultant with over 10 years working experience with vast years in Telecommunication industry as a Charging System Engineer Customer Technical Manager.
+I'm currently a Freelance ICT Consultant with over 10 years working experience with vast years in Telecommunication industry as a Charging System Engineer and Customer Technical Manager.
 
 Ambrose specializes in Charging/Pre-Paid Systems Operations/Support, Data Analytics Skill with Business Intelligence and aspiring Blockchain/Smart Contract Developer. I enjoy using my skills to contribute to the exciting technological advances where I work. In my free time, I like to spend it with my family, playing games and contributing to my immediate environment.
 
